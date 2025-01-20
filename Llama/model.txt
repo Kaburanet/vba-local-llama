@@ -1,0 +1,2 @@
+Llama-3-ELYZA-JP-8B
+https://huggingface.co/elyza/Llama-3-ELYZA-JP-8B
